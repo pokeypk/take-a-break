@@ -1,7 +1,7 @@
 from plyer import notification
 import time
 
-def display_message():
+def display():
     notification.notify(
         title="Short Break Alert",
         message="It's been 45 minutes. Don't forget to stretch a bit and go to the toilet.",
@@ -10,4 +10,4 @@ def display_message():
 
 time.sleep(11)
 
-display_message()
+display()
