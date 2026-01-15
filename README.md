@@ -11,6 +11,6 @@ Requires `plyer`, `schedule` and `pyobjus` for macOS
  
    `python3 main.py`
    
-   Or run it with a cronjob.
+   Or run it as a cronjob (recommended)
 
 3. To exit, press 'E'
